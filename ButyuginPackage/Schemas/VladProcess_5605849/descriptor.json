@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e9bb6098-8f87-4754-8176-69886d55fc23",
+    "Name": "VladProcess_5605849",
+    "ModifiedOnUtc": "\/Date(1657884910000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Вычислить Общая сумма по заявке, Самый дорогой билет в заявке, Средняя стоимость билета",
+    "DependsOn": []
+  }
+}

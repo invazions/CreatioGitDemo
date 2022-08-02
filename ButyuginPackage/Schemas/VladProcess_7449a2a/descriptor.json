@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "995d36bb-e425-4525-8a16-ac1041f78add",
+    "Name": "VladProcess_7449a2a",
+    "ModifiedOnUtc": "\/Date(1657911565000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "БП визирования",
+    "DependsOn": []
+  }
+}

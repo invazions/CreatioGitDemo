@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a32028fd-ea61-4ed3-8d54-d5202fd115f9",
+    "Name": "VladVladApplicationTicketaeb65217Page",
+    "ModifiedOnUtc": "\/Date(1657879723000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Билеты по текущей услуге\"",
+    "DependsOn": []
+  }
+}

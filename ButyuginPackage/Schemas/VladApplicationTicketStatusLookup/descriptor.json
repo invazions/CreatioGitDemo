@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc9eb028-c6d3-48a5-8cd2-57294bcd317d",
+    "Name": "VladApplicationTicketStatusLookup",
+    "ModifiedOnUtc": "\/Date(1657879728000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Категории билета",
+    "DependsOn": []
+  }
+}

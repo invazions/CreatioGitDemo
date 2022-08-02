@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "203465b9-1d6f-4989-820e-846df4805ae3",
+    "Name": "VladApplicationFolder",
+    "ModifiedOnUtc": "\/Date(1657877084000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Заявки",
+    "DependsOn": []
+  }
+}

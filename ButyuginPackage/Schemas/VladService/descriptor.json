@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+    "Name": "VladService",
+    "ModifiedOnUtc": "\/Date(1657878493000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Каталог услуг",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0827cbcc-a492-4526-8018-a70addeddc84",
+    "Name": "VladSchema0d50fad9Detail",
+    "ModifiedOnUtc": "\/Date(1657879561000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Билеты по текущей услуге\"",
+    "DependsOn": []
+  }
+}

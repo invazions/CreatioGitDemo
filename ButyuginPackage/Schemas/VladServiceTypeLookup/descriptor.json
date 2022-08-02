@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0e05257-21f6-4c2c-a44a-53960ed5c737",
+    "Name": "VladServiceTypeLookup",
+    "ModifiedOnUtc": "\/Date(1657878181000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Категории услуги",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Каталог услуг" />
+			<Item Name="Columns.VladName.Caption" Value="Название" />
+			<Item Name="Columns.VladNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.VladServiceDescription.Caption" Value="Описание" />
+			<Item Name="Columns.VladServiceExecutionTime.Caption" Value="Время выполнения" />
+			<Item Name="Columns.VladServiceExecutionTimeUnit.Caption" Value="Единица времени выполнения" />
+			<Item Name="Columns.VladServiceInitiator.Caption" Value="Инициатор" />
+			<Item Name="Columns.VladServiceResponsible.Caption" Value="Ответственный" />
+			<Item Name="Columns.VladServiceStatus.Caption" Value="Состояние" />
+			<Item Name="Columns.VladServiceType.Caption" Value="Категория" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4476f55-acd5-447b-a5f9-ff278554c778",
+    "Name": "VladApplicationFile",
+    "ModifiedOnUtc": "\/Date(1657877078000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Заявки",
+    "DependsOn": []
+  }
+}

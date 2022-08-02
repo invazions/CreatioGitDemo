@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f75dffc7-d341-4611-b8cd-e7b1a5a9802d",
+    "Name": "VladApplicationStatusLookup",
+    "ModifiedOnUtc": "\/Date(1657877775000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояния заявки",
+    "DependsOn": []
+  }
+}

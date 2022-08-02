@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Object" />
+			<Item Name="Columns.VladApplicationTicketApplication.Caption" Value="Услуга" />
+			<Item Name="Columns.VladApplicationTicketCost.Caption" Value="Стоимость" />
+			<Item Name="Columns.VladApplicationTicketOwner.Caption" Value="Владелец" />
+			<Item Name="Columns.VladApplicationTicketStatus.Caption" Value="Категория" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

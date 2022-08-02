@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "35a5d9ba-3fb4-48c0-8c3d-fb440df1e392",
+    "Name": "VladServiceFolder",
+    "ModifiedOnUtc": "\/Date(1657877169000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Каталог услуг",
+    "DependsOn": []
+  }
+}

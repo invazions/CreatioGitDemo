@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b74a28db-7703-4910-b359-9be93cc24dab",
+    "Name": "VladSchema984442ceDetail",
+    "ModifiedOnUtc": "\/Date(1657878853000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Заявки",
+    "DependsOn": []
+  }
+}

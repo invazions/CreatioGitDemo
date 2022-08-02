@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заявки" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Заявитель" />
+			<Item Name="Columns.VladApplicationAverageCost.Caption" Value="Средняя стоимость билета" />
+			<Item Name="Columns.VladApplicationComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.VladApplicationInitiator.Caption" Value="Инициатор" />
+			<Item Name="Columns.VladApplicationMostExpensive.Caption" Value="Самый дорогой билет в заявке" />
+			<Item Name="Columns.VladApplicationN.Caption" Value="Номер" />
+			<Item Name="Columns.VladApplicationNumber.Caption" Value="Номер" />
+			<Item Name="Columns.VladApplicationResponsible.Caption" Value="Ответственный" />
+			<Item Name="Columns.VladApplicationService.Caption" Value="Услуга" />
+			<Item Name="Columns.VladApplicationStartDate.Caption" Value="Дата начала" />
+			<Item Name="Columns.VladApplicationStatus.Caption" Value="Состояние" />
+			<Item Name="Columns.VladApplicationTotalAmount.Caption" Value="Общая сумма по заявке" />
+			<Item Name="Columns.VladLookup1.Caption" Value="Категория услуги" />
+			<Item Name="Columns.VladName.Caption" Value="Name" />
+			<Item Name="Columns.VladNotes.Caption" Value="Notes" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow2_5faa4c6bef3f4f25aa1a8af7211961d4.Caption" Value="Условный поток 2" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_96ccaf26ec2d4dfea88619d974b086d3.Caption" Value="Сгенерировать номер по порядку 1" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_96ccaf26ec2d4dfea88619d974b086d3.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_96ccaf26ec2d4dfea88619d974b086d3.Parameters.EntitySchema.DisplayValue" Value="[#Системная настройка.#]" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_96ccaf26ec2d4dfea88619d974b086d3.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_96ccaf26ec2d4dfea88619d974b086d3.Parameters.ResultCode.DisplayValue" Value="[#Системная настройка.#]" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_96ccaf26ec2d4dfea88619d974b086d3.Parameters.ResultCode.Value" Value="[#Системная настройка.#]" />
+			<Item Name="EventsProcessSchema.Caption" Value="Заявки" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5bbe074356674695a26d917028eca2de.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5bbe074356674695a26d917028eca2de.Lanes.Lane_c6d7e75fa8514208a0de232973c8f451.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

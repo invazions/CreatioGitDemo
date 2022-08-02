@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4d3420ce-b5f2-4494-bb90-762067129582",
+    "Name": "VladApplicationVisa",
+    "ModifiedOnUtc": "\/Date(1657887166000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Визы в разделе Заявки",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fa4a7279-6217-469c-8eff-97190a7df4cd",
+    "Name": "VladProcess_6fe4603",
+    "ModifiedOnUtc": "\/Date(1657961099000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнить колонка Категория детали Билеты",
+    "DependsOn": []
+  }
+}

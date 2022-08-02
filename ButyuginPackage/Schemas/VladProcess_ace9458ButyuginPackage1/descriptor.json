@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2986be98-e5e9-4a7d-acd9-a10e0f46a4d2",
+    "Name": "VladProcess_ace9458ButyuginPackage1",
+    "ModifiedOnUtc": "\/Date(1658478465000)\/",
+    "Parent": {
+      "UId": "756b4511-5af1-4a45-be0e-416f4d29df00",
+      "Name": "VladProcess_ace9458"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 3",
+    "DependsOn": []
+  }
+}

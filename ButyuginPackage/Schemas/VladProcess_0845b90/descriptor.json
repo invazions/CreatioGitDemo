@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d4aa170-bdcb-41dc-81db-9331f91dce89",
+    "Name": "VladProcess_0845b90",
+    "ModifiedOnUtc": "\/Date(1657961082000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнить колонка Дата начала раздел Заявки",
+    "DependsOn": []
+  }
+}

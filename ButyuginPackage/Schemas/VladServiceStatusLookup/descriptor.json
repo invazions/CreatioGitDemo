@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fa8c679e-3263-4643-bdcc-c11db9eea7e6",
+    "Name": "VladServiceStatusLookup",
+    "ModifiedOnUtc": "\/Date(1657878487000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояния услуги",
+    "DependsOn": []
+  }
+}

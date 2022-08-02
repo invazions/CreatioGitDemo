@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d5f206d1-7d92-4784-9dd4-712555acc677",
+    "Name": "VladServiceTag",
+    "ModifiedOnUtc": "\/Date(1657877180000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Каталог услуг",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f6c03b13-ade9-fee9-c465-dc9b47793832",
+    "Name": "ButyuginPackage",
+    "ModifiedOnUtc": "\/Date(1657876911000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}

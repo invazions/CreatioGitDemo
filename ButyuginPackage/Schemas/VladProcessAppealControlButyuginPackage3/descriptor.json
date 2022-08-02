@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6004eb73-cb3d-4a06-95b4-4c0f1510027b",
+    "Name": "VladProcessAppealControlButyuginPackage3",
+    "ModifiedOnUtc": "\/Date(1658314263000)\/",
+    "Parent": {
+      "UId": "1be043e5-7546-4bb6-bc22-2a5d004c2a57",
+      "Name": "VladProcessAppealControl"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 2",
+    "DependsOn": []
+  }
+}

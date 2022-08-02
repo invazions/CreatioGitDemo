@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7d011369-b058-4ecf-8add-c0f727e53337",
+    "Name": "VladCase_3f1e037ButyuginPackage1",
+    "ModifiedOnUtc": "\/Date(1657909186000)\/",
+    "Parent": {
+      "UId": "38a61b1f-fbbb-47aa-a816-01df5858b719",
+      "Name": "VladCase_3f1e037"
+    },
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Кейс 1",
+    "DependsOn": []
+  }
+}

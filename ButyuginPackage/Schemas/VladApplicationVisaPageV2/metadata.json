@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "dafa98fa-fc9b-4dbd-b030-2b21f18bff46"
+= MetaData.Schema.A2 "VladApplicationVisaPageV2"
+= MetaData.Schema.B6 "f6c03b13-ade9-fee9-c465-dc9b47793832"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.HD1 "66e3a5b3-f004-4335-a4e9-5ba255c8a319"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

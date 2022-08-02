@@ -1,0 +1,132 @@
+= MetaData.Schema.UId "7b2a10a3-f9bb-4972-8a2b-3d2588914d52"
+= MetaData.Schema.A2 "VladService"
+= MetaData.Schema.A5 "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6"
+= MetaData.Schema.B6 "f6c03b13-ade9-fee9-c465-dc9b47793832"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "a4f24bd2-f908-4381-af0b-f08c57380730"
+= MetaData.Schema.EG1.A2 "VladServiceEventsProcess"
+= MetaData.Schema.EG1.A5 "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D4 "4336fbcb-c96a-47ae-84d1-a7796359b602"
++ MetaData.Schema.D2 {
+  "UId": "4336fbcb-c96a-47ae-84d1-a7796359b602",
+  "A2": "VladName",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "a5018f95-406c-4e9b-8e9a-c4b47e1ac832",
+  "A2": "VladNotes",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "bc45ff83-c262-404d-ae26-90b2320aad49",
+  "A2": "VladServiceType",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "c0e05257-21f6-4c2c-a44a-53960ed5c737",
+  "E6": true,
+  "E20": true,
+  "E17": "VladServiceTypeId",
+  "E18": "VladServiceTypeName"
+}
++ MetaData.Schema.D2 {
+  "UId": "1a46905f-f67f-447c-a908-7c84133f6a9c",
+  "A2": "VladServiceDescription",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "8f0c63b1-2fcd-4935-99ab-8806a23090a5",
+  "A2": "VladServiceResponsible",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "VladServiceResponsibleId",
+  "E18": "VladServiceResponsibleName"
+}
++ MetaData.Schema.D2 {
+  "UId": "d7a28a19-2d95-4f13-937f-abad1e0f7895",
+  "A2": "VladServiceInitiator",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "VladServiceInitiatorId",
+  "E18": "VladServiceInitiatorName"
+}
++ MetaData.Schema.D2 {
+  "UId": "2079696c-41de-4316-a3cf-f06431e04545",
+  "A2": "VladServiceExecutionTime",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "a733dab9-671c-49db-a8d6-4bd00de0702c",
+  "A2": "VladServiceExecutionTimeUnit",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "816a86a8-1ca0-4c89-b6fd-adf3a2126a66",
+  "E6": true,
+  "E20": true,
+  "E17": "VladServiceExecutionTimeUnitId",
+  "E18": "VladServiceExecutionTimeUnitName"
+}
++ MetaData.Schema.D2 {
+  "UId": "9cbfbd82-3d3c-4ee6-a058-aab0422b0198",
+  "A2": "VladServiceStatus",
+  "A3": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A4": "7b2a10a3-f9bb-4972-8a2b-3d2588914d52",
+  "A5": "fc4d72a7-d8d3-4c58-9e22-a4c1c7ca54d6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "fa8c679e-3263-4643-bdcc-c11db9eea7e6",
+  "E6": true,
+  "E20": true,
+  "E17": "VladServiceStatusId",
+  "E18": "VladServiceStatusName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","4336fbcb-c96a-47ae-84d1-a7796359b602","a5018f95-406c-4e9b-8e9a-c4b47e1ac832","bc45ff83-c262-404d-ae26-90b2320aad49","1a46905f-f67f-447c-a908-7c84133f6a9c","8f0c63b1-2fcd-4935-99ab-8806a23090a5","d7a28a19-2d95-4f13-937f-abad1e0f7895","2079696c-41de-4316-a3cf-f06431e04545","a733dab9-671c-49db-a8d6-4bd00de0702c","9cbfbd82-3d3c-4ee6-a058-aab0422b0198"]
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

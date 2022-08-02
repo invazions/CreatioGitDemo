@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "008c007f-49c5-4386-a6d9-07037fef22fd",
+    "Name": "VladApplicationTag",
+    "ModifiedOnUtc": "\/Date(1657877094000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Заявки",
+    "DependsOn": []
+  }
+}

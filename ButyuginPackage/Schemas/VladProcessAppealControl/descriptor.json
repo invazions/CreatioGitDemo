@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1be043e5-7546-4bb6-bc22-2a5d004c2a57",
+    "Name": "VladProcessAppealControl",
+    "ModifiedOnUtc": "\/Date(1658300793000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 2",
+    "DependsOn": []
+  }
+}

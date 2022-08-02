@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7309d5ed-4056-4d45-9d54-6b9b0ff8e5aa",
+    "Name": "VladApplication506eec87Section",
+    "ModifiedOnUtc": "\/Date(1658299970000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Заявки\"",
+    "DependsOn": []
+  }
+}
